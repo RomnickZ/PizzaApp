@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <string name="appName">Pizza App</string>
+    <string name="tvSize">Size: </string>
+    <string name="tvBase">Base: </string>
+    <string name="tvTopping">Topping/s: </string>
+    <string name="tvSpice">Spice lvl: </string>
+    <string name="tvDressing">Dressing: </string>
+    <string name="tvQuantity">Pizza Qty: </string>
+    <string name="lblMinus">-</string>
+    <string name="lblPlus">+</string>
+    <string name="tvDefaultQuantity">0</string>
+    <string name="tvDeliver">Delivery</string>
+    <string name="tvPickup">Pickup</string>
+    <string name="tvName">Name: </string>
+    <string name="tvGender">Gender: </string>
+    <string name="tvAddress">Address: </string>
+    <string name="tvPhone">Phone #: </string>
+    <string name="lblCancel">Cancel</string>
+    <string name="lblOrder">Place Order</string>
+    <string name="status">Order info: </string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnConfirmOrder">Confirm Order</string>
+
+    <string-array name="pizza_sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="pizza_bases">
+        <item>Thin Crust</item>
+        <item>Regular Crust</item>
+        <item>Thick Crust</item>
+    </string-array>
+
+    <string-array name="topping_options">
+        <item>PineApple</item>
+        <item>Pepperoni</item>
+        <item>Mushrooms</item>
+    </string-array>
+
+    <string-array name="spice_levels">
+        <item>Mild</item>
+        <item>Medium</item>
+        <item>Hot</item>
+    </string-array>
+
+    <string-array name="side_dressings">
+        <item>Ranch</item>
+        <item>Garlic Sauce</item>
+        <item>Barbecue Sauce</item>
+    </string-array>
+
+    <string-array name="gender_options">
+        <item> </item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
